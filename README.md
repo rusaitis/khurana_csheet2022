@@ -1,4 +1,4 @@
-# Khurana Jupiter Current Sheet Thickness Model 2022, v1.0
+# Khurana Jupiter Current Sheet Thickness Model 2022 (v1.0)
 
 ## Description
 
@@ -26,7 +26,8 @@ https://lasp.colorado.edu/home/mop/files/2015/02/CoOrd_systems7.pdf
 F. Bagenal & R. J. Wilson, LASP – University of Colorado
 
 ## Author
-Krishan Khurana, UCLA.
+Krishan Khurana, UCLA.  
+05/16/2022
 
 ## Contacts
 For any questions, please email Krishan Khurana.
