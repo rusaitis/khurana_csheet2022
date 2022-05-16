@@ -15,14 +15,14 @@ SUBROUTINE csheet_struc(ZNS3,R,theta,phi,XJSO,YJSO,ctime)
 
 Arguments:
 	INPUT:  R,theta,phi : position in System III
-             XJSO,YJSO   : position in JSO
-             ctime       : UNIX time
+		XJSO,YJSO   : position in JSO
+		ctime       : UNIX time
 	OUTPUT: ZNS3        : hight of the current sheet in System III
 ```
 
 ## Other Useful Information
 Helpful information on the Jupiter coordinate systems, such as System III and JSO:
-https://lasp.colorado.edu/home/mop/files/2015/02/CoOrd_systems7.pdf
+https://lasp.colorado.edu/home/mop/files/2015/02/CoOrd_systems7.pdf  
 F. Bagenal & R. J. Wilson, LASP – University of Colorado
 
 ## Author
@@ -31,8 +31,8 @@ Krishan Khurana, UCLA.
 ## Contacts
 For any questions, please email Krishan Khurana.
 
-Krishan Khurana
-kkhurana@igpp.ucla.edu
-Institute of Geophysics and Planetary Physics
-University of California at Los Angeles
-Los Angeles, CA, 90095
+Krishan Khurana  
+kkhurana@igpp.ucla.edu  
+Institute of Geophysics and Planetary Physics  
+University of California at Los Angeles  
+Los Angeles, CA, 90095  
