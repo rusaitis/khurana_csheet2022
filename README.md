@@ -1,10 +1,10 @@
-# Khurana Jupiter Current Sheet Thickness Model 2022
+# Khurana Jupiter Current Sheet Structure Model 2022
 [![DOI](https://zenodo.org/badge/493023766.svg)](https://zenodo.org/badge/latestdoi/493023766)
 
 
 ## Description
 
-The program calculates the current sheet thickness at Jupiter at a particular point in space and time.
+The program calculates the current sheet structure at Jupiter at a particular point in space and time.
 
 ## Instructions
 
