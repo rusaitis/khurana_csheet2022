@@ -12,13 +12,13 @@ Call the Fortran subroutine 'csheet_struc' with the input parameters of the desi
 
 ``` Fortran
 SUBROUTINE csheet_struc(ZNS3,R,theta,phi,XJSO,YJSO,ctime)
-```
 
 Arguments:
-	 INPUT:  R,theta,phi : position in System III
+	INPUT:  R,theta,phi : position in System III
              XJSO,YJSO   : position in JSO
              ctime       : UNIX time
-     OUTPUT: ZNS3        : hight of the current sheet in System III
+	OUTPUT: ZNS3        : hight of the current sheet in System III
+```
 
 ## Other Useful Information
 Helpful information on the Jupiter coordinate systems, such as System III and JSO:
