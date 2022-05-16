@@ -1,4 +1,6 @@
 # Khurana Jupiter Current Sheet Thickness Model 2022 (v1.0)
+[![DOI](https://zenodo.org/badge/493023766.svg)](https://zenodo.org/badge/latestdoi/493023766)
+
 
 ## Description
 
